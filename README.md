@@ -1,2 +1,2 @@
 # python-projects
-Short, interesting projects to further my knowledge and experience in Python
+Learning stuff through python programming.
